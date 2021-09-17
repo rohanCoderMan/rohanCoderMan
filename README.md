@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohanCoderMan
 - 👀 I’m interested in web dev
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanCoderMan)]
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rohanCoderMan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 

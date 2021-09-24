@@ -1,6 +1,6 @@
-### Hi there 👋, Iam rohan
+### Hi there 👋, I am rohan
 #### I am a young software developer
-![I am a young software developer](https://avatars.githubusercontent.com/u/84845548?v=4)
+![I am a young software developer]
 
 I am a programmer who loves to slam his keyboard until something MAGICAL happens
 

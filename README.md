@@ -10,7 +10,8 @@ Skills: VUE JS / REACT / JS / NEXT /  HTML / CSS / JAVA / C / C ++ / Python / ba
 - 🌱 I’m currently learning react 
 - 👯 I’m looking to collaborate on chat apps 
 - ⚡ Fun fact: i am just 11 
-
+My tech stack:-
+![image](https://user-images.githubusercontent.com/84845548/134617932-8111ab06-4a30-4de5-9744-f8d61370acd9.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohanCoderMan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rohan-kumar.epizy.com/)
 

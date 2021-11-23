@@ -5,12 +5,12 @@ I am a young software developer
 
 I am a programmer who loves to slam his keyboard until something MAGICAL happens
 
-Skills: VUE JS / REACT / JS / NEXT /  HTML / CSS / JAVA / C / C ++ / Python / batch / shell script 
+Skills: VUE JS / REACT / JS / NEXT /  HTML / CSS / JAVA / C / C ++ / Python / batch / shell script / GD script / THREE JS / Phaser js
 
-- 🔭 I’m currently working on distrix 
-- 🌱 I’m currently learning react 
-- 👯 I’m looking to collaborate on chat apps 
-- ⚡ Fun fact: i am just 11 
+- 🔭 I’m currently working on xx142-b2.exe
+- 🌱 I’m currently learning C# 
+- ⚡ Fun fact: i am just 12
+<iframe frameborder="0" src="https://itch.io/embed/1289300?bg_color=ffffff&amp;fg_color=222222&amp;link_color=98d48d&amp;border_color=bebebe" width="552" height="167"><a href="https://rohancoderman.itch.io/xx142-b2exe">xx142-b2.exe by rohanCoderMan</a></iframe>
 My tech stack:-
 ![image](https://user-images.githubusercontent.com/84845548/134617932-8111ab06-4a30-4de5-9744-f8d61370acd9.png)
 

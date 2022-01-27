@@ -7,8 +7,8 @@ I am a programmer who loves to slam his keyboard until something MAGICAL happens
 
 Skills: VUE JS / REACT / JS / NEXT /  HTML / CSS / JAVA / C / C ++ / Python / batch / shell script / GD script / THREE JS / Phaser js
 
-- 🔭 I’m currently working on xx142-b2.exe
-- 🌱 I’m currently learning C# 
+- 🔭 I’m currently working on JARVIS AI
+- 🌱 I’m currently learning AI and ML
 - ⚡ Fun fact: i am just 12
 My tech stack:-
 ![image](https://user-images.githubusercontent.com/84845548/134617932-8111ab06-4a30-4de5-9744-f8d61370acd9.png)

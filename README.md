@@ -17,7 +17,7 @@ web developer , ethical hacker,voIP, java , jsp , SQL , data science , ai,ml,gam
 
 c,c++,java,html,css,js,php,sql,jsp,advanced js,node js for APIS,node js for web,react js,next js,angular,NoSQL databases , JSON , c# , python .....(Still learning more!)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohanCoderMan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://rohan-kumar.epizy.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohanCoderMan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanCoderMan)](https://github.com/anuraghazra/github-readme-stats)
 

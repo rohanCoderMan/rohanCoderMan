@@ -7,40 +7,40 @@ I am a programmer who loves to slam his keyboard until something MAGICAL happens
 - reach out to me on discord - disrupt#5455
 - 🔭 I’m currently working on G-ONE ( an ai assistant )
 - 🌱 I’m currently learning AI and ML
-- ⚡ Fun fact: i am just 12
-My tech stack:-
-web developer 
-ethical hacker
-java 
-jsp 
-SQL 
-data science 
-ai
-ml
-game developer 
-android developer 
-api developer
-
-c
-c++
-java
-html
-css
-js
-php
-sql
-jsp
-advanced js
-node js for APIS
-node js for web
-react js
-next js
-angular
-NoSQL databases 
-JSON  
-c#
+- ⚡ Fun fact: i am just 12 <br />
+My tech stack:- <br />
+web developer <br />
+ethical hacker <br />
+java <br />
+jsp <br />
+SQL <br />
+data science <br />
+ai<br />
+ml<br />
+game developer <br />
+android developer <br />
+api developer<br />
+<br /><br /><br />
+c<br />
+c++<br />
+java<br />
+html<br />
+css<br />
+js<br />
+php<br />
+sql<br />
+jsp<br />
+advanced js<br />
+node js for APIS<br />
+node js for web<br />
+react js<br />
+next js<br />
+angular<br />
+NoSQL databases<br /> 
+JSON  <br />
+c#<br />
 python .....(Still learning more!)
-
+<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohanCoderMan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanCoderMan)](https://github.com/anuraghazra/github-readme-stats)

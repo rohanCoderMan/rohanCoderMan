@@ -7,7 +7,7 @@ I am a programmer who loves to slam his keyboard until something MAGICAL happens
 - reach out to me on discord - disrupt#5455
 - 🔭 I’m currently working on Mark X( https://github.com/rohanCoderMan/mark )
 - 🌱 I’m currently learning AI and ML
-- ⚡ Fun fact: i am just 12 <br />
+- ⚡ Fun fact: i am just 13 <br />
 My tech stack:- <br />
 web developer <br />
 java <br />

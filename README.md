@@ -40,11 +40,3 @@ JSON  <br />
 c#<br />
 python .....(Still learning more!)
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanCoderMan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanCoderMan&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohanCoderMan)  
-
-![Profile views](https://gpvc.arturio.dev/rohanCoderMan) 
